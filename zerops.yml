@@ -12,6 +12,7 @@ zerops:
         - port: 3000
           httpSupport: true
       start: pnpm start
+  
   - setup: backend
     build:
       base: go@1

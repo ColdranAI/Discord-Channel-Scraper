@@ -1,0 +1,15 @@
+project:
+  name: discord-channel-scraper
+  tags:
+    - coldran-ai
+
+services:
+  - hostname: web
+    type: nodejs@20
+    enableSubdomainAccess: true
+    buildFromGit: https://github.com/ColdranAI/Discord-Channel-Scraper
+  
+  - hostname: backend
+    type: go@1.22
+    enableSubdomainAccess: true
+    buildFromGit: https://github.com/ColdranAI/Discord-Channel-Scraper
