@@ -1,0 +1,28 @@
+zerops:
+  - setup: web
+    build:
+      base: nodejs@20
+      buildCommands:
+        - pnpm i
+        - pnpm run build
+      deployFiles: ./
+    run:
+      base: nodejs@20
+      ports:
+        - port: 3000
+          httpSupport: true
+      start: pnpm start
+  - setup: backend
+    build:
+      base: go@1
+      buildCommands:
+        - ls -la
+        - go build -o backend main.go
+      deployFiles: ./
+    deploy:
+    run:
+      base: go@1
+      start: ./websocket
+      ports:
+        - port: 8001
+          httpSupport: true

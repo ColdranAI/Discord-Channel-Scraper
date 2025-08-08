@@ -1,0 +1,20 @@
+{
+  "name": "discord-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Discord Channels without hitting the Rate Limits",
+  "homepage": "https://github.com/ColdranAI/Discord-Channel-Scraper",
+  "bugs": {
+    "url": "https://github.com/ColdranAI/Discord-Channel-Scraper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColdranAI/Discord-Channel-Scraper.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

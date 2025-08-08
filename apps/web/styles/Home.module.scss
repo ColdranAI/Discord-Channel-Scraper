@@ -1,0 +1,305 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.repo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.repo_title {
+  font-size: 20px;
+
+  a {
+    color: #66e6f4;
+  }
+
+  a:hover {
+    border-bottom: 1px dotted #66e6f4;
+  }
+}
+
+.forks_stars {
+  display: flex;
+  align-items: center;
+  margin-top: 16px;
+
+  a:hover {
+    color: #66e6f4;
+  }
+}
+
+.issue_comments {
+  color: #888;
+  display: flex;
+  align-items: center;
+  margin-top: 16px;
+
+  a:hover {
+    color: #66e6f4;
+
+    path {
+      color: #66e6f4;
+    }
+  }
+}
+
+@media (min-width: 500px) {
+  .repo {
+    flex-direction: row;
+  }
+
+  .forks_stars {
+    margin-top: 0;
+  }
+
+  .issue_comments {
+    margin-top: 0;
+  }
+}
+
+.explanation {
+  color: #ccc;
+  font-size: 14px;
+  border: 1px dashed #666;
+  padding: 10px 20px;
+  margin-bottom: 40px;
+  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  line-height: 1.5;
+  background-color: #161b22;
+
+  p {
+    margin-bottom: 10px;
+
+    a {
+      color: #fff;
+      border-bottom: 1px solid #fff;
+    }
+
+    em {
+      color: #f4e866;
+      font-weight: normal;
+      font-style: normal;
+
+      a {
+        color: #f4e866;
+        border-bottom-color: #f4e866;
+      }
+    }
+  }
+}
+
+.explanation_notes {
+  color: #999;
+  margin-top: 5px;
+  display: block;
+  font-size: 12px;
+}
+
+.left {
+  display: flex;
+}
+
+.right {
+  display: flex;
+  gap: 8px;
+  color: #888;
+}
+
+.issues {
+  border: 1px solid #30363d;
+  width: 100%;
+  color: #c8d1d9;
+  font-size: 13px;
+  border-radius: 6px;
+}
+
+.issue {
+  padding: 15px 20px;
+  border-bottom: 1px solid #21262d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &:hover {
+    background-color: #151b22;
+  }
+
+  .issue_title:hover {
+    color: #66e6f4;
+  }
+}
+
+.issue_title {
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+@mixin icon {
+  fill: currentColor;
+  display: inline-block;
+  overflow: visible;
+  vertical-align: text-bottom;
+}
+
+.github_icon {
+  @include icon;
+  margin-right: 5px;
+  width: 20px;
+  height: 20px;
+
+  path {
+    color: #eee;
+  }
+}
+
+.issue_icon {
+  @include icon;
+  margin-right: 12px;
+  margin-top: 2px;
+
+  path {
+    color: #66e6f4;
+  }
+}
+
+.fork_icon {
+  @include icon;
+  margin-right: 5px;
+  width: 15px;
+  height: 15px;
+
+  path {
+    color: #eee;
+  }
+}
+
+.star_icon {
+  @include icon;
+  margin-left: 16px;
+  margin-right: 5px;
+  width: 15px;
+  height: 15px;
+
+  path {
+    color: #eee;
+  }
+}
+
+.comment_icon {
+  @include icon;
+  margin-right: 5px;
+  width: 16px;
+  height: 16px;
+
+  path {
+    color: #888;
+  }
+}
+
+.comment_count {
+  color: #888;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.details {
+  summary {
+    cursor: pointer;
+
+    span {
+      padding-left: 5px;
+    }
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  p {
+    padding: 10px 20px;
+    margin: 0;
+
+    code {
+      background: #222;
+      padding: 3px;
+    }
+
+    em {
+      color: #eee;
+      font-style: oblique;
+    }
+  }
+
+  &[open] {
+    summary {
+      font-weight: bold;
+      color: #fff;
+    }
+
+    background: #333;
+  }
+}
+
+.rounded {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.image {
+  margin-right: 10px;
+  margin-top: 4px;
+  margin-bottom: auto;
+}
+
+.comments {
+  width: 100%;
+  color: #c8d1d9;
+  font-size: 13px;
+  border-radius: 6px;
+}
+
+.comment {
+  padding: 15px 0px;
+  display: flex;
+}
+
+.comment_div {
+  border: 1px solid #21262d;
+  border-radius: 5px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  &:hover {
+    background-color: #151b22;
+  }
+}
+
+.comment_timestamp {
+  font-size: 14px;
+  margin-bottom: 10px;
+  background-color: #313f50;
+  width: 100%;
+  padding: 10px 18px;
+  min-height: 2.2rem;
+}
+
+.comment_body {
+  font-size: 15px;
+  padding: 0 18px;
+  min-height: 2.6rem;
+  line-height: 1.5rem;
+}
+
+.issue_desc {
+  height: 15px;
+}
