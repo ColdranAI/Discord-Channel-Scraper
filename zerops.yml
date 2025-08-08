@@ -11,19 +11,19 @@ zerops:
       ports:
         - port: 3000
           httpSupport: true
-      start: pnpm start
+      start: pnpm dev:web
   
   - setup: backend
     build:
       base: go@1
       buildCommands:
-        - ls -la
-        - go build -o backend main.go
+        - pnpm i
+        - pnpm build
       deployFiles: ./
     deploy:
     run:
       base: go@1
-      start: ./websocket
+      start: pnpm dev:backend
       ports:
         - port: 8001
           httpSupport: true
