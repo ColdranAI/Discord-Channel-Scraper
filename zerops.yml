@@ -23,7 +23,7 @@ zerops:
     deploy:
     run:
       base: go@1
-      start: pnpm dev:backend
       ports:
         - port: 8001
           httpSupport: true
+      start: pnpm dev:backend
