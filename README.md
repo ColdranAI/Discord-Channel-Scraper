@@ -40,5 +40,4 @@ If you want to help me build [ColdranAI](https://coldran.com) feel free to suppo
 
 
 
-
-
+Need help with something? Join [Coldran Discord community](https://discord.gg/rDDqA83eGz).
