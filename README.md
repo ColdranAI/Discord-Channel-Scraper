@@ -1,8 +1,10 @@
-# Discord-Scraper
+# Discord Channel Scraper
+
+<img width="976" height="383" alt="image" src="https://github.com/user-attachments/assets/59c07801-90a4-451c-a7b7-7af9d8b91195" />
 
 Scrape Discord Channels without hitting the Rate Limits. Scrape with Batches
 
-
+Feel free to file an issue or maybe even drop a pull request. TALK IS CHEAP, DO A PR
 
 ### How to Import & Deploy
 
@@ -38,5 +40,4 @@ If you want to help me build [ColdranAI](https://coldran.com) feel free to suppo
 
 
 
-
-
+Need help with something? Join [Coldran Discord community](https://discord.gg/rDDqA83eGz).
