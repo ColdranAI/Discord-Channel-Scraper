@@ -2,6 +2,9 @@ project:
   name: discord-channel-scraper
   tags:
     - coldran-ai
+  envVariables:
+    WEBSITE_URL: https://yourdomain.com # The Domain You're planning to use.
+#   WEBSITE_URL: ${api_zeropsSubdomain} (if you don't plan on using your own domain)
 
 services:
   - hostname: web

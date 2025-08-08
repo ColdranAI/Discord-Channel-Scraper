@@ -96,8 +96,9 @@ func corsMiddleware(next http.HandlerFunc) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		origin := r.Header.Get("Origin")
 		allowedOrigins := []string{
-			// "http://localhost:3000",
-			"https://discord.nermalcat69.dev",
+			"http://localhost:3000",
+			"https://localhost:3000",
+			os.Getenv("WEBSITE_URL"),
 		}
 		
 		for _, allowed := range allowedOrigins {
@@ -134,9 +135,29 @@ func main() {
 		port = "8001"
 	}
 
+	// Get domain from environment variables
+	domain := os.Getenv("DOMAIN")
+	if domain == "" {
+		domain = "localhost"
+	}
+
+	// Determine protocol based on domain
+	wsProtocol := "ws"
+	httpProtocol := "http"
+	if domain != "localhost" {
+		wsProtocol = "wss"
+		httpProtocol = "https"
+	}
+
 	log.Printf("Discord Export server starting on port %s", port)
-	log.Printf("WebSocket endpoint: ws://localhost:%s/ws", port)
-	log.Printf("Download endpoint: http://localhost:%s/download/{id}", port)
+	if domain == "localhost" {
+		log.Printf("WebSocket endpoint: %s://%s:%s/ws", wsProtocol, domain, port)
+		log.Printf("Download endpoint: %s://%s:%s/download/{id}", httpProtocol, domain, port)
+	} else {
+		log.Printf("WebSocket endpoint: %s://%s/ws", wsProtocol, domain)
+		log.Printf("Download endpoint: %s://%s/download/{id}", httpProtocol, domain)
+	}
+	
 	log.Fatal(http.ListenAndServe(":"+port, nil))
 }
 
@@ -152,7 +173,7 @@ func handleWebSocket(w http.ResponseWriter, r *http.Request) {
 	
 	sendMessage(conn, WebSocketMessage{
 		Type:    "connected",
-		Message: "Connected to Discord export server",
+		Message: "Connected to Websocket [Backend]",
 	})
 
 	for {
