@@ -1,13 +1,13 @@
 {
+  "name": "web",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "backend": "cd ../go-backend && ./run.sh",
-    "dev:full": "concurrently \"pnpm backend\" \"pnpm dev\"",
-    "dev:frontend": "pnpm dev",
-    "dev:backend": "pnpm backend"
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf .next dist"
   },
   "dependencies": {
     "highlight.js": "^11.11.1",
@@ -22,7 +22,9 @@
   "devDependencies": {
     "@types/node": "^22.13.4",
     "@types/react": "^19.0.8",
-    "concurrently": "^8.2.2",
+    "@types/react-dom": "^19.0.8",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "15.3.0-canary.15",
     "postcss": "^8.5.2",
     "typescript": "^5.7.3"
   }

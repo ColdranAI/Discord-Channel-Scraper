@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "private": true,
+  "scripts": {
+    "dev": "./run.sh",
+    "build": "go build -o dist/main main.go",
+    "start": "go run main.go",
+    "tidy": "go mod tidy",
+    "clean": "rm -rf dist",
+    "lint": "go vet ./...",
+    "type-check": "go build -o /dev/null ."
+  }
+}
