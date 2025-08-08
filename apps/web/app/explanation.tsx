@@ -20,7 +20,7 @@ export default function Explanation() {
 
       <p>
         <em>
-          _💡 We use batch based scraping to avoid rate limiting :3 + OPEN SOURCE AT 500 LIKES ON IT'S X POST_
+          _💡 We use batch based scraping to avoid rate limiting :3 + OPEN SOURCE AT <a href="https://github.com/ColdranAI/Discord-Channel-Scraper" target="_blank" rel="noopener noreferrer">ColdranAI/Discord-Channel-Scraper</a>_
         </em>{' '}
         <br />
         <br />

@@ -184,7 +184,7 @@ export default function DiscordExportButton() {
         backgroundColor: '#0d1117'
       }}>
         <h3 style={{ color: '#c9d1d9', marginTop: '0', marginBottom: '15px' }}>
-          Discord Channel Export via <a href="https://x.com/ArjunShips" style={{ textDecoration: 'underline' }} target="_blank" rel="noopener noreferrer">Arjun Aditya</a>
+          Discord Channel Export via <a href="https://coldran.com/" style={{ textDecoration: 'underline' }} target="_blank" rel="noopener noreferrer">Coldran</a>
         </h3>
         
         <div style={{ 

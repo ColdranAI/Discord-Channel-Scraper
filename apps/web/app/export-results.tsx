@@ -519,7 +519,7 @@ export default function ExportResults({ messages, logs, scrapedText, downloadId,
                       minWidth: '100px'
                     }}
                   >
-                    Follow Arjun Aditya
+                    Follow Coldran
                   </button>
                   <button
                     onClick={downloadAsFile}
