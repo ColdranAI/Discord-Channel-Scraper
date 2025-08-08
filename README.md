@@ -1,4 +1,4 @@
-# Discord-Scraper
+# Discord Channel Scraper
 
 <img width="976" height="383" alt="image" src="https://github.com/user-attachments/assets/59c07801-90a4-451c-a7b7-7af9d8b91195" />
 
