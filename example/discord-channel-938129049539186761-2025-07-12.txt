@@ -1,0 +1,631 @@
+Oh no! Please send an email to support@same.new so we can take a look!
+Guys, I face an issue
+Let me know if this has helped you. Keep vibin'!
+Actually, don't worry, I'll show you! We don't have a `vibe` codeblock yet so I'll just use `python` but it goes a little like this:
+
+```python
+Hey Siri! Make me an app that will make me 1_000_000 USD!
+```
+I did! Let me know if you want to see my *prompt*.
+Hey all, are you guys VIBE CODING YOUR WAY TO 1,000,000 USD yet?
+I'm so sorry about that. Could you send an email to support@same.new so we can take a look?
+there’s no support tickets anymore
+<@&938150376471937034> you charged me $100 because i couldn’t cancel my plan 😂
+Does anyone how to end subscription?
+very less token (i was just using it to test the quality)
+it went out of token midway only... cant even create one trial website
+hello
+Gm
+Hi <@695405454817230848>, I had a question and I opened a support ticket 0155, thank you
+Hi!
+guys, is downloading the code free or I have to subscribe?
+insane
+130k tokens to deploy
+Hey, how do I cancel my subscription?
+Good evening. I just started using your service and I'm very happy with the website I created, but I have a question: How can I download the final result as a file that I can upload directly to my server without having to compile it?
+Can we be specific about the framworks or technologies/stack wwe want to use when developing a project and/or is there a speciific stack the LLM perfers or excels in?
+same please fix your task agent. on
+same please fix your task agent. on multiple occasions, what it creates does not go into the editor. I asked it to create 14 placeholder pages that i could edit, and it made the pages fine, and the pages even showed up in the preview of the website, but the pages werent in the editior, and upon refreshing, the website gave 404 errors for the pages.
+You can’t you just have to don’t use it
+how can u cancel auto renewal?
+how so
+coming soon. i'd love to learn about your use case + see if we can deliver something that fits you use case! dming
+Hey <@695405454817230848> 
+
+I’d say I’ve become pretty darn good at making sites with Same (I know, it’s easy, but i believe my sites are top tier) 
+
+But, I’m stuck on one thing—payment tiers for site users. I am currently building a paper trading platform, and have a free tier & a paid tier (paid gives access to funded account giveaways, etc..) 
+
+With the login page, anyone can create an account & use the free dashboard. How can I set it up so the paywall works & doesn’t give everyone the paid features for FREE? 
+
+Stripe integration? But in saying that, how will the website itself differentiate users based on their payment & account info?
+and send screenshots of the error, that would be helpful
+hey, please make a ticket in <#1378640328025702434>!
+Hi i want to cancel my subscription. Can you please not able to find cancellation menu or button anywhere
+<@695405454817230848> <@636701123620634653>
+i tried on 3 different devices
+I am continuously signing up and loging but its is every time failing
+hello please help me
+<@955744627481255976> Can you help?
+hi
+Hi!
+
+I just created an account and mistakenly activated a prompt. 
+Is there a way to reset my account so I can try the free tier out with a proper prompt? I cant find a way to delete my account and it seems weird to create a new one.
+Says there is no input. I readded the context, still doesnt work...
+Why is my chat not working?
+goated tool fr
+no hate tho your website is awesome
+tedious ahhh
+bro yall forced me to scan my message history with the ai and update every file it changed lol
+so i can only download
+bc i cant directly commit anywhere due to file size reasons
+🙏
+guys can u please make downloading ur project a non-pro feature?
+Hey!
+<@298596214491054080>
+Idk why it works but it does
+You can limit how much it used by changing the way you speak I’ve noticed
+token usage on this is disgusting lol
+<@231643298282864640> can i setup a ticket system here?
+
+might as well setup a bot what do you think?
+man what is this how do i open a ticket
+<@955744627481255976> i would like my account to be deleted please
+does anyone know how can I delete my Same account? I can't find the way to do it
+I tried but its still look in beta
+Two quick questions:
+First can we be specific about the framworks or technologies/stack wwe want to use when developing a project and/or is there a speciific stack the LLM perfers or excels in?
+I need tokens I have reached my limit is there any way I can look what same has made?
+How Could I update my site?
+Anyone from the US contact me
+Hello, I no longer wish to renew my Pro account, but I can't find the option to disable auto-renewal. Could you please help me turn it off?
+Also there's no "Claim deployment" button lol
+That's the issue. I can't get it to work via Github+netlify. Only way was to upload directly
+Are you deploying it via netifly
+There is a deploy button no?
+That'd make it fairly easy
+I've been trying to do it via Github but I haven't been able to deploy from it.
+Sers, no reply on my ticket. I really need to get my project up and running again
+How Could I update my site? via netilify?
+hey
+set the custom dns
+netlify
+netfliy
+How
+using netfliy, going to domain management
+yaeh
+Anyone having issues right now?
+can i host site to a domain i purchased
+how do you publish a site?
+Yep, already opened one before I wrote in here
+if you open a support tickets with <#1378640328025702434> happy to take a look!! or if you already have one open feel free to ping me and we can try diagnosing the issue :)
+ah
+im trying to figure out how to create support tickets but i can’t 🥀
+hmm
+Where's my project 👀
+umm...
+
+https://imgur.com/gFFbxJf
+and if i start new chat it says my tokens are finished
+still not working
+got it mate. cheers
+cant find it mate
+how do i cancel my subscripion?
+hi chat
+I just got a 25$ sub my tokens went by in not even half the day its pretty crazy
+nahh 10$ for 2 mil is a s c a m lowkey
+oh 500k
+how many tokens do i get for free
+hello is it normal for the ai to stop when its given commands in the midst of creating a project? how do i fix this? thank you 🙏
+hi chat
+<@509078907467857971> Try prompting it to use “motion” to add animations to your site. It use to be called framer motion so you might want to specify “motion (prev framer motion)”
+hey guys, in your experience wich model is the best one to make and exact copy of a site? I tried different models but it seems after recent updates, the copies are not very accurate 🤔
+Really love this! I completely agree, especially on building from the logo. That ripple/reflection effect feels like a strong visual metaphor to expand on. I’d love to explore that direction further.
+
+Also really into the idea of embracing creative copying “good artists copy, great artists steal” as a core narrative. There’s something powerful in starting with something great and making it your own.
+
+The ‘virtual slot machine’ and the counter-S idea are super clever too. Feels like there’s a ton of room to play here, both visually and conceptually.
+haha  yeah 100% agree.  I would love to bring some nice (subtle animations)
+no offense but the site has become too rounded, so many squircles it feels like a zune haha
+
+needs more sharp edges! 
+(maybe some js animations too)
+alr tysm ill give you feedback in a while
+Hi Danny. One option is to build on the visual device you use in your logo. Another idea is to incorporate identical objects in the open counters of the letter S. It'd be fun to construct a virtual slot machine that spun the fruit and dollars but always had the two come up the same... 'Make anything' doesn't grab me. I think your USP is more around building sites on a solid foundation, so 'replicate, then iterate' or 'start good, get better' or 'on the shoulders of giants'. Obviously you're looking to establish a brand, so let's make sure there are memorable graphic elements and a distinct colour palette.
+hey - so sorry about this. i just fixed this issue. can you try creating a new project and try again?
+Hey everyone! Danny here from the Design Team 👋
+We’re exploring some new directions for the homepage and would really value your input.
+
+Curious to hear:
+    •    What do you like about the current homepage?
+    •    What would you change or improve?
+
+Big or small, any thoughts are welcome. Thanks for helping us make it better! 🙌
+i tried using same and it showed the same error like 3-4 times and then suddenly stopped working without giving any results
+hey
+no lines changed
+now this is a rare sight
+I need tokens I have reached my limit is there any way I can look what same has made?
+how do I cancel this subscription?
+\\
+deployments broken?
+where is this happening at 👀
+cool boy
+the boss
+thanks will do that
+can you create a ticket? i'll go in and check what's going on <#1378640328025702434>
+can you create a support ticket in <#1378640328025702434>? we'll help handle it for you
+26 minutes on 1 not too complex UI design prompt.. & still going.. come on lol
+im trying to get more tokens. but its just saying its processing my payment . not letting me upgrade instantly
+<@&938150376471937034> im trying to get more tokens. but its just saying its processing my payment . not letting me upgrade instantly
+https://same.new/chat/modern-frontaccounting-ui-rtv9nj0ay9r
+just send the URL from the URL bar
+where i can find it ?
+can you share your project ID?
+i click download nothing happens
+also im unable to download my project files
+i keep reloading the page but it will get stuck again and again
+thinking and working forever
+do you see the agent doing something in the chat? more context helps us troubleshoot better 🙂
+<@&938150376471937034> my agent takes forever to respond or to make any update to my project, is there any server issue ?
+Tokens refresh each month, you can also subscribe to one of our pro plans for more tokens immediately
+whens the next time i can use same. new after i run out of tokens <@&938150376471937034>
+oooh a advert system for tokens would be massive
+Hey, quick question: Can I do a whole project there, like, improving it as I get tokens? And will they reset at some point? Also, can I download the whole thing, fully functional (with all the necessary installs and stuff) afterwards?
+
+If that needs a plan, which one would you recommend?
+oh i didnt know you guys just launched then, i believe march or early april
+cool screenshot btw 🙂 looks like it's from right when we launched?
+none of us on the og team are designers lol, but we recently hired a very good one
+haha hopefully we keep getting better for you!
+also thanks for adding opus and adding back the 10 dolla plan was genuinely thinking of getting claude plus but now no need
+but it just felt sleeker idk lol
+not like it was better
+man i miss when there was just claude 3.7 and gpt 4.1
+who remembers the old same.new UI
+hey
+Yes he is
+yeah fairly new so no Support role yet haha
+Are you associated with Same.dev?
+ok lemme take a look, sending DM
+.
+Very simple I sent a prompt, waited and waited, while I refreshed the token counter on another page.
+
+Later the chat said nothing and ended the chat and I lost a few hundred thousand tokens.
+
+I’m not home to send screenshot
+can you give a practical example how the AI got stuck in your case?
+it seems the 100's of thousands of tokens are sometimes gone when the ai is stuck. this is disappointing and wastefuol
+I have been successful in creating projects that do not involve functions that deal with the back end. I have been able to recreate and start from scratch front end projects that turned out beautiful and with a little patience without failures but nothing more than that.
+Good evening everyone! First of all, I would like to thank the developers for the tool and I would like to leave here my criticism and point of improvement: Whenever I am in a project that is bigger than any exercise that is learned during development, that is, a real project that deals with APIs, for example, SAME starts to use fictitious data and has serious problems in storing what needs to be done, leaving behind with each new chat more and more information that is fundamental to the project. I have just spent more than $200 dollars (40 million tokens) and all I have in the end is a bunch of code that has already been so messed with that it is no longer useful.
++1
+Hi
+happy to help - can you make a ticket in <#1378640328025702434>? i'll dm there
+i dont want to do that. same new its not proividing precise copy
+Hi, I replied to you in the <#1378645077643104306> channel but here is is again `You could login and screenshot the dashboard you want to copy Same supports building based on an uploaded image of a design`
+<@794359797155495937> i really like their dashboard.
+
+but same.new it tells me i cant give him password/email
+
+can you pls help me how can i do it
+mrktedge.ai
+Ive poured over $200 into this just to keep me going in circles.
+Generally thinking will increase the quality of the model's response but does increase the token usage
+Is it worth turning thinking on? Has anybody tested this feature and saw improvement in the AIs work?
+help needed - I'm pretty new and looking for someone with some experience to spar with. I often get error messages when it comes to expanding the database. the file message I get is "tool call failed, please try again" feel free to send dm:)
+The page is now normal. Thank you.
+My server is showing but the window won't load
+Should be back now
+Checking now, could be a ddos happening
+I don't know what's wrong with my server
+Could you share the project url and create a support ticket please
+My server has not been able to start correctly
+What is the website?
+Not that I know of right now, did you experience any errors?
+Is there any abnormality in the server?
+<@794359797155495937> Is there any abnormality on your server?
+🙏Please 1 Like 1Share❤️
+https://www.youtube.com/watch?v=iPCbcT7ITsA
+can i gety any help
+hey guys. thers website i want to copy. ill pay what ever is requested.
+
+its requires login in, its a simple dashboard.
+
+how do i gie login in to same new >? p;lease assist me
+Love the product ❤️
+https://tenor.com/view/br4uh-gif-24710037
+Our compute servers are down and previews aren't loading. We are fixing right now. I am extremely sorry.
+Update: fixed!
+<@802685875389202532> can you create a support ticket?
+theyre relatively similar in length if not PHP has easier syntax
+why is it that react takes 100x less tokens to gen than PHP
+gemini jus doesnt work whatsoever haha
+Turn on those thinking links and learn how your customers want to be treated
+This service is the absolute garbage!
+absolutely on the point the bot keeps
+helow 👀
+we're mainly in <#1378640328025702434>
+hey! we're here. what can i fix for you
+How can I help? If there is an issue I’d suggest opening a support ticket
+Hey what issues are you running into?
+A little
+Same getting better
+at least they removed HSTS so i can use it in school
+same.new tweaking tf out for anyone else today? hah
+But  none of them chat in here
+I forgot they had the <#1378640328025702434>
+And the owner  barley  even chat in here
+In this sever there is not bots and people ain't gonna follow the rules
+The support is ass
+^^ my question as well
+Guys is there any possibility to top up the tokens without buying the bigger plan?
+Never  heard them send a message in a channel
+Can't they support?
+Are the support team bots
+Bug
+Hi
+Hu
+Same issue the past few days no with updates from support!
+can anyone hellp  keep getting this message - messages.0.content.1.image.source.base64.data: At least one of the image dimensions exceed max allowed size: 8000 pixels
+
+
+If the problem persists, copy the error message and project URL, and email us at: support@same.dev or create a ticket on Discord
+Request ID:
+iad1::sn9zw-1750360434617-48345e4ca773-hzmp59qizud
+Im not pleased at all with this
+absolutely on the point the bot keeps saying it fixed the problem and sucking my tokens, also its very pricy
+Anything wrong with this? Its the Original. I found nothing more i have to do?
+This service is the absolute garbage! keep sucking money out of you, I want to download my files but can't...absolute garbage
+im stuck on initiating project again
+Could anyone provide information or resources on creating a Discord bot with JavaScript and establishing a database connection?
+v0
+Yes i was talking about peppermint. it worked before allready. now i can not login again. 
+
+I used the docker compose from website:
+
+```
+version: "3.1"
+ 
+services:
+  peppermint_postgres:
+    container_name: peppermint_postgres
+    image: postgres:latest
+    restart: always
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: peppermint
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: peppermint
+ 
+  peppermint:
+    container_name: peppermint
+    image: pepperlabs/peppermint:latest
+    ports:
+      - 3000:3000
+      - 5003:5003
+    restart: always
+    depends_on:
+      - peppermint_postgres
+    environment:
+      DB_USERNAME: "peppermint"
+      DB_PASSWORD: "1234"
+      DB_HOST: "peppermint_postgres"
+      SECRET: 'peppermint4life'
+ 
+volumes:
+ pgdata:
+```
+
+Well, anyway, i will delete it and try again with new installation
+Down again?
+If you’re talking about peppermint as your app, then you need to make sure that your login is connected to some sort of database of authentication like firebase or you can create demo credentials that will let you test everything before you deploy back end
+Hello from germany, i can not login into peppermint. The Mailadress and password is correct (no erroer message). When i try another passwort i get an error. What can i do? Maybe overwrite Mailadress/Password with console?
+Yeah it looks like it’s back up and
+I’m not a Support but I’m happy to help
+I will send you in private
+Do you have a screenshot? What did you type?
+That comes up
+No right after the beginning
+Sometimes when you have a really long conversation or chat, you need to start a new chat
+Guys is it working again for ya`ll ? I feel like its still having problems, got stuck at "thinking and working" a few times now
+Yeah it looks like it’s back up and running. What was the reason for this outage? Feel free to DM me if needed I have some other questions in private.
+<@442904232564228098>
+If you were running into an issue with not being able to start a project, this has been fixed!
+I have a support ticket. 0098. Thanks.
+Hey can you make a support ticket and send us your email?
+Is the server failing.  Is same failing
+Any luck. It seems like my entire project is gone.
+bolt.new, cursor, claude.ai
+yeah I agree, now i have to ask claude.ai a starting point for anything a website or cpp program and then i put that in
+its back online thank god
+ayy
+ahh ok
+But not the end of the world. It’s not like this is the first time.
+wouldnt it be funny asf if they just dipped
+Any alternative solutions?
+Same here. Not getting a response from support on eta.
+yeah im stuck too
+yo is the site down
+interesting,  I think same.new uses https://www.fleet.so/ for the UI and their website is having a similar error on console log. Not sure if they are related at all but fleet.so was the console error i'm getting when trying to load my project
+```
+Access to fetch at 'https://api.workos.com/user_management/authorize?client_id=[redacted]&provider=authkit&redirect_uri=https%3A%2F%2Fsame.new%2Fcallback&response_type=code&screen_hint=sign-in' (redirected from 'https://same.new/login?_rsc=[redacted]') from origin 'https://same.new' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+```
+
+I'm getting this pretty consistently when logging into Same. Perhaps obviously, none of the operations are working for me right now and I _feel_ like they're related. WorkOS had an incident earlier today but that's been resolved. Could someone from Same confirm if there's a downstream outage going on?
+<@955744627481255976>
+Hello i use Same AI and i like it , but nut i have a problem if i write anything i get no response  and see this error in the buttom Error listing directory
+Tool call failed. Please try again.
+It's just same.new that is getting errors.
+I don't think its a claude problem, in every other app Claude works amazing, in Cursor as well.
+Could use your help here ASAP. Looks like a wide spread issue affecting all the customers. <@231643298282864640> <@400835140458250241>
+ssme here
+They're probably having an outage. Could be a billing issue with their credits or something like when Robinhood had their outage. But not having any support or any updates on the outage is quite frustrating as a power user... Spent a few hundred dollars already this month and now nothing is loading.. <@&938150376471937034> Could use your help ASAP
+my project is not loading and stuck on initiating project
+then they forced everyone to minimum 25 bucks a month
+and then they added more and for a short period it was the best AI coding platform ever, claude just randomly snapped from 600k tokens and 4 mins to 200k tokens and 2 mins
+then they started adding new features, still prevelant but cool new AI’s
+the early days it just went in constant loops deleting stuff
+there was a very brief period of time where it was like this
+Whoever is responsible....PLEEAAASSSSEEEEE rectify this soon
+It is not able to load despite me trying everything I possibly knew
+I am having the same issue that nothing is working
+Is your page normal?
+I can't see any download option
+How do you download a copy of your site from https://www.netlify.com/
+Solution
+<@473330467626811393> how long does it usually take for the page to work again?
+Nobody knows
+HELLO
+Will this issue be fixed?
+Me too
+Now it's a cashgrab, and tokens get ran up and used for no reason. Cursor offers you almost 180 million tokens for $20/mo
+When it first came out it worked amazing. And it was cheap, $10/mo.
+damn that is bad, it was working the whole day pretty good but then went offline
+No idea, the support team hasn't even made an official statement on all the problem's everyone has been happening. At the moment, the website is horrible and not working.
+Is anyone like this?
+but is the functionality coming back after some time at least? So my money wasn't wasted at all? :/
+Is there anyway to delete my account? Or is there no option for that.
+I say it's a cashgrab because support barely responds and doesn't seem to be fixing anything, these issues have been happening for weeks.
+This app sucks and is incomplete, don't pay for it. It's a cashgrab, you can get the same thing done, better with no errors and only for $20/mo by using cursor! Don't waste your money.
+Is anyone having problems rn too? So is it still offline?
+It appears that the service is offline then...
+Hi
+Same as here
+trying to reconnect to my project and just stuck here
+Any good alternatives?
+recursion detection would be a blessing
+It is quite annoying when it gets caught on a loop and you cannot see that it's caught on a loop, but see atfer stopping that it was just repeating the one single phrase over and over during thinking,  and you realize you spent a LOT of tokens because of the AI's mess-up, and it doesn't go "oh I made a mistake and wasted a whole lot of your tokens, let me give those back" or something...
+I don't understand why I need to set up a higher subscription than before, why I can't just top up as needed.
+My main problem is "Oh I can't just put in another 10 for the same amount of credits?"
+A.I is not a tool for devving, it's a tool for getting a working template, if you are using AI generated code in production then you're hoping to get hacked.
+*EVERYBODY THAT CANT BUILD STRAIGHT FORWARD ON SAME.NEW DOESNT KNOW HOW TO PROMPT* - LOOKING FOR SERIOUS A.I DEVS THAT WANT TO GET INVOLVED IN INTERNATIONAL PROJECTS - DM ME.
+exactly! I had this exact problem , encountered errors kept retyrying and went through all credits and then UPGRADE tier. HIghly problematic
+i can't, sorry, ran out of tokens
+<@1323374462309240855> please try again for the React issue
+I was about to die
+ha. so glad there is a rollback feature
+it seemed to be working normally and it's now gone and zipped up and deleted the entire project
+can you create a new support ticket for this?
+;D
+new chat (again)
+and again the minified react error ;D
+now this
+now I'm getting this
+good to know
+great
+and that's not the 2m I used from the previous subscription?
+ah I see, so the 2.8m tokens which have been marked as used in this run has no correlation to the previous subscription, right?
+If you still have unused tokens from your previous plan, you will be credited for them https://docs.same.new/usage/upgrade-subscription#after-upgrading
+yeah that seemed to solve the problem but it always gets shorter and shorter each chat and I think it might do it again (it worked for now but I'll let you know if the problem persists)
+the best way would be by starting a new chat
+also Claude is not responding to me at all in that project. is there any way to disclude the previous chat context as I think that's a possible reason
+this month I used the 2k tokens and then upgraded, and then I used some more of it, and it's saying I've used 2.8m out of 5m tokens, is that the new package or is that including the old package?
+thank you. if I got the $10 package (2m tokens) and then upgraded to the $25 package (5m tokens) do I then have 7m tokens?
+If you go to same.new/settings it will show how many tokens you've used and how many total you have
+not on max, no thinking claude 3.7
+1 request
+also I still have times where a single request eats all 500k tokens when it gets stuck on some issue
+hi, where can I see how many tokens I have left
+it just kills the qol
+not this
+I would expect hosting to be maybe with netlify
+I was very surprised this of all features is the paid one
+<@&938150376471937034> is there any chance this feature will ever revert to being free again or do I have to download each file individually every time
+<@641811187373441065> <@740458030818132030> I sent both of you messages in the support tickets you made.
+same i also opened a suport ticket but no one asnswer
+been doing this all day and now wants more money. I want to be refunded
+"Now let me test the build:
+
+cd bagno-sud-est && rm -rf .next && bun run build
+Perfect! Now let me deploy the fixed version:
+
+Error during deployment
+bagno-sud-est
+Tool call failed. Please try again."
+it makes so many mistakes then build fails and it retries and retries and has gone through 7 million credits the when deploying say I must upgrade tier and get more credits. Thsi is a con
+i have the mostr frustrating day
+this is a conjob
+Same is frustrating to use
+I use bolt now 😌
+This is lowkey funny asf
+can't tell if you're ragebaiting
+stfu clown
+you want a treat or what
+good job
+I did lol
+then do it?
+Compared to other providers, and same.new doesn’t even work lol, I can get tripple the amount done on cursor for way less money
+Honestly Same.new is a rip off
+Feel free to let me know and I can get it deleted for you
+Please open a ticket
+is same not working at this moment?
+I wonder why there is no option to delete my account ?
+<@&938150376471937034>
+Hello how I cancel my account
+this just shows how one company can instantly kill the world
+i see Same start work with anthropic
+AWS, Google Cloud, Cloudflare
+All clouds in the world are down.
+this is a problem for all anthropic users, I have sent a link to their status page above, we can only wait patiently. same has nothing to do with it, the problem is above
+idk at first i thought that this problem exists only for me or smt idk
+https://status.anthropic.com/ Elevated errors on the API, Console and Claude.ai
+Update - We are seeing increased rates of errors on requests to all models, and are continuing to work to mitigate impact from the ongoing GCP disruption. We will provide additional updates as soon as possible.
+Jun 12, 2025 - 12:20 PDT
+And what do you think I'm doing in this community? I already have hundreds of these sites. You see that there are problems, wait patiently, just like me.
+https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW
+first ai who accepts 2000 Line codes 😄
+like im using same ai to make my website better
+I think you could send the task to the same with screenshots
+bro just make ur own website ._.
+idk bro im wait too
+TOMORROW WHATTT
+im too bro I think everything will work wonderfully tomorrow morning.
+So nobody has any idea for cloning a website that has some cloud flare verification or captcha? Is there a manually solving this so the tool can do its job
+i caaantt
+wait bro
+and i cant even create a ticket lol
+it just said no
+dudeeeee
+Hopefully Waymo cars aren’t down too 🙃
+https://status.anthropic.com/
+rest in peace
+Aws is down too rip
+cloudflare is having a big outage, probably the reason https://www.cloudflarestatus.com
+whats going on with Same? keeps coming up with "Unknown error"? 🤔
+Hey could you share the project url or your account email please?
+<@794359797155495937> check pls agentic We ran into an internal server error with the model. Please try again in a few moments or start a new chat.
+How can I clone a website that has a captcha when running the command?
+Have you also got an image so I'm also able to pass this on
+I've logged this with the technical team, thanks for making me aware of it.
+Myself and others have been experiencing this issue, the site isn't working at all, it keeps saying Directory not found, or failed to write to file, then it does things by terminal which messes my code up. There's no statement, or disclaimer on the site and support is not answering nor helping.
+How can I help?
+<@400835140458250241> <@243401286714654723> <@695405454817230848> <@753700437441511464> What's goin on here? Preparing to file a class action.
+https://youtube.com/shorts/GpDhoPB7uUw?si=XgeyZUupU8U_hM52
+Files r getting corrupted way too often wtf
+https://tenor.com/view/nerd-catstor-gato-castor-cerebrito-sabiondo-gif-12002557139688614332
+how do I cancel my subsc
+I had this happen to me and it looks like it was trying to load from the wrong directory. Sometimes you have to ask it to make sure it’s in the right directory or if there’s duplicate files in the directory.
+whats going on. why same cant read any
+@Support
+these ai companies nowadays. just need 1 time customers, not interested in retention
+No clue
+lol, perfect situation. credits run out. And same also dont want my money ^^
+hmm. i switched from lovable to same, because they dont have any support and the app is completly broken. So its not only lovable, its also same.dev. Need to find another dev app. Any ideas, what works right now?
+What a joke
+I asked them to fix it and one of the support said "have you tried telling it to continue"
+This has literally been going on for about a week
+<@&938150376471937034>
+If the problem persists, copy the error message and project URL, and email us at: support@same.dev or create a ticket on Discord
+Request ID:
+fra1::4c572-1749670549334-d3817e23cd2b-p7bh3yfm6ns
+whats going on. why same cant read any directories?
+GitHub extension is enabled and linked however each time we want to commit to github it initialises git each time like its a new project and eventually when it commits and pushes the changes it forces them as it creates divergent changes between its main and our main branch.
+
+We'd like it so we can tell it to git commit and push the changes and it keeps the .git directory so each time it knows what has changed and can resolve its own merge conflicts if needed and not lose any history.
+Maybe consider breaking out the React Scan thing into it's own discord. You know, just a suggestion. The people who want to use React Scan and the people who want to Builder.ai don't have much overlap if you ask me.
+I'm only here for React Scan so excuse me if I don't what the hell you guys are doing.
+Hey is this product the same as Builder.ai?
+Up to 7 days
+Sorry had to do an image, the server was blocking it lol
+Thanks, will get to it end of day today
+<@243401286714654723> Sent.
+Could you let me know what the ideal outcome would be over email? and I'll get it sorted for you
+I will do that. But the issues are not there any more. The updates that were completed to the application yesterday cleared my issues, is more about fri/sat/sunday tokens that got me no where on my app.
+Hey Roger, could you email support@same.new instead?
+<@243401286714654723> I tried to submit a support ticket multiple times over the weekend but it says I have reached my limit of 1 ticket but cannot see / modify the ticket.
+We tried that already sadly
+Maybe the bot could send a DM `Your ticket was resolved and closed`
+Sadly people don’t close them and we end up with too many open tickets hence why but appreciate the feedback!
+Thanks, although it would be better to let the user close it to avoid confusion
+it was closed as it was resolved
+<@243401286714654723> Hi, what happened to support ticket #13? It disappeared from my sidebar
+I think the best for prompting ( like what i did like the most ) is to create a custom gpt or gemini gems ( i prefer the gems ) and u give him some documentation about prompt engineering + a persona ( like a way to act + respond ) and it'll redifine ur prompt
+And for that they have small difference but yes . U can go on some github they did leak the prompt system from windsurf , etc and u can adapt ur prompt
+So no really big need of prompt bc it'll basicaly do the work for u
+If someone want to really use the power of cursor the minimum is to use smtg like rules + taskmaster ( Claude task master on github ) or the best imo some ppl did release some " agent coding team " ( some issue bc is only the start of it ) .
+A tasks.md is a nice idea
+but I give it to make a tasks.md and start one step at a time
+well that was an example
+my actual prompts are more of a paragraph, I also includes things like the file name conventions, function name conventions, package manager, whether I'm using monorepo etc
+My prompt is more complex then both of yours. With Guides what to Install, Style references detailed Features. You can try o3 for prompting. You will have much better results whit that.
+like
+"make me a nice website"
+vs
+"with tailwind, shadcn ui and blue color scheme, make me a modern chatgpt clone with authentication and db using convex, and use vite with tanstack query for fetching"
+but either way the more specific your prompt is, the better the outcome will be
+from my experience cursor let's me skip time into future where I would've coded, and others kinda goes through the process with me
+cursor's more focused on developers imo
+So you think you have to prompt Cursor in a different way then cline or Windsurf or any other vibe Coder out there?
+you need to know how to make it yourself to make good prompt with cursor
+https://tenor.com/view/fr-lie-gif-9063740662564569899
+I used a mixture of agentic methods but I mainly use ColaudePilot, here's the most successful prompt: 
+> Hey, make me a website/app that will make me 100 MILLION USD!
+Guys! I just vibe coded my way to 100 MILLION USD!
+thanks. will try it out
+roo code is better than cline ( from my opinion ) + i prefer cursor from claude code for some reason like the price ,etc
+maybe they changed something. my last test is a  month ago
+even vscode with cline is better then cursor in my opinion
+claude code is the best so far
+i tried it a few times. And always had incomplete builds, errors and cursors is spinning circles, producing more errors. same as lovable
+cursor is not good in my opinion
+This is imo one of the best things someone can get
+Yep but imo the best thing is cursor u pay basically 20 usd a month for having 500 premium request ( fast call ) and then u get unlimited slow request ( which are not that slow )
+yeah lol i come here sometime just to see if ppl need help or smtg else
+the api costs are crazy high. i tried deepseek, but always have 500 errors.
+so you dont use same.new but help people in their discord?
+i developed yesterday a simple video format changer. and it costs  1$. in a vibecoder the same app would cost a few cents
+nope, it’s been a while since I last used this site
+and it cost mcuh more then lovable
+but mostly i develope local ais. like scraper, seo analyser but all locally
+Yeah but like they are really agent team and the only output that u'll need to give to them is a PRD or some a simple brief app / website idea and they'll work after automatically ( like i know some ppl that are letting ai build for 8 hours straight on they pc while they sleep )
+i develope everything with claude yolo, deploy with vercel and use supabase for database things
+i do. but i hate work 😄
+But to respond to that why aren't u using agent with cursor ,etc ?
+do you know what the 10x monthly tokens for pro means?
+3-4 is more then 0 and an outdated bot
+i know for sure that on the start and some month after the release of the project they was really active
+they are 3-4 support here on the discord so yeah i don't know if u'll get lot of support
+<:depressed:1274640139070607444>
+i did
+maybe delete cookies
+lol you cant say R efund here ^^
+dude why i keep getting logged back to my account i wanna log out😭 it keeps making me log back to my acccount and i cant even disable or delete my own account
+they have no support and hundrets of tickets every day
+lol mb then
+maybe you try to answer a different question ^^ But thanks anyway. Im in the AI game since 2011. I coach companies how to prompt since 2022. That is not my Problem.
+A week ago the broke something and nothing works anymore.
+Thats why i am here
+Note : was for a documentation for a github project
+=====================================================================================
+
+
+To give u a good example of prompt i did build this website by using +/- 10 credits ( i was trying some prompt but with the good prompt that will cost +/- 5-7 credits i thinks ) : https://preview--bmad-web-architect-27.lovable.app/#resources
+Don't know if this is clear but ( did enhanced the format with gpt btw): 
+
+> Big companies like **Loveable**(valued in the billions) — typically have **more financial flexibility**.
+> Their **credit-per-output model** (1 AI response = 1 credit) is honestly one of the best systems out there:
+> => It leads to **huge cost savings**, especially since they target **mass-market users**.
+> 
+> On the other hand, **smaller platforms like Same** don’t have as many users yet, so they rely on a **more traditional credit model**(which is more expensive )
+
+👉 So overall, I believe **Loveable is much more cost-effective**, though of course I could be wrong.
+
+
+But the real game changer is **Prompt Engineering**: 
+
+If you want to get the **most value per credit**, you *need* to learn how to write better prompts.
+Here’s what I recommend:
+
+**1) Look up tutorials** — YouTube, Reddit, blogs… tons of free content out there.
+
+**2) Google released a 64-page PDF** on prompt engineering — it’s gold.
+If you're short on time, you can use AI to summarize it for you.
+
+**3) Start a new chat** when the conversation gets too long or context starts to break.
+This keeps the model sharp  and **reduces token usage**.
+
+**4) Always send the most detailed and precise prompt you can.**
+=> It saves time, avoids back-and-forth, and **maximizes each credit**.
+but thats all in supabase. And i know i can do everything myself and use claude code, cursor, cline and vercel for deployement and can manage supabase myself. but the idea of such tools is to not do everything myself.
